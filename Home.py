@@ -42,7 +42,8 @@ with st.sidebar:
     colored_header(label="MONITORING AND EVALUATION SYSTEM",
         description="COHRIE-UGANDA",
         color_name="blue-green-70")
-    st.image("cohrieLogo.PNG")
+
+    st.image("cohrieLogo.png")
 
 tab1, tab2, tab3, tab4, tab5 = st.tabs(["🏠Project Overview", "🏦M&E Overview", "🧰M&E LogFrame", "📈Evaluation", "📖Monitoring"])
 
