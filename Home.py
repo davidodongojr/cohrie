@@ -12,7 +12,7 @@ from streamlit_extras.colored_header import colored_header
 st.set_page_config(
     page_title= "COHRIE-UGANDA",
     page_icon="cohrieLogo.PNG",
-    layout="centered",
+    layout="wide",
     initial_sidebar_state="expanded"
 )
 
