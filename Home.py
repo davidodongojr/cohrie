@@ -76,7 +76,6 @@ with tab4:
 
 with tab5:
    st.header("An owl")
-   st.image('cohrieLogo.PNG', width=1200)
 
 
 
