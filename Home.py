@@ -12,8 +12,7 @@ from streamlit_extras.colored_header import colored_header
 st.set_page_config(
     page_title= "COHRIE-UGANDA",
     page_icon="cohrieLogo.PNG",
-    layout="wide",
-    initial_sidebar_state="expanded"
+    layout="wide"
 )
 
 st.write('<style>div.block-container{padding-top:2rem;}</style>', unsafe_allow_html=True)
