@@ -23,7 +23,6 @@ colored_header(
     color_name="blue-green-70"
     )
 
-#st.sidebar.image("/images/cohrieLogo.png")
     
 def read_markdown_file(markdown_file):
     return Path(markdown_file).read_text()
