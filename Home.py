@@ -7,7 +7,7 @@ from st_aggrid.grid_options_builder import GridOptionsBuilder
 from pathlib import Path
 from streamlit_extras.colored_header import colored_header
 
-df = pd.read_csv('COHRIE_Mapping_Households_share.csv')
+
 
 st.set_page_config(
     page_title= "COHRIE-UGANDA",
