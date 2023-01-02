@@ -77,4 +77,3 @@ with tab4:
 
 with tab5:
     st.markdown(log_tab, unsafe_allow_html=True)
-)
