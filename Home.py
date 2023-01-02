@@ -33,6 +33,8 @@ def data_upload():
 
 intro_markdown = read_markdown_file("intro.md")
 mande =read_markdown_file("mande.md")
+log_tab = read_markdown_file("log_tab.md")
+mande_system = read_markdown_file("mande_system.md")
 df = data_upload()
 
 
@@ -71,10 +73,8 @@ with tab3:
 
 with tab4:
    st.header("A dog")
-   st.image("https://static.streamlit.io/examples/dog.jpg", width=200)
+   st.markdown(mande_system, unsafe_allow_html=True)
 
 with tab5:
-   st.header("An owl")
-
-
-
+    st.markdown(log_tab, unsafe_allow_html=True)
+)
