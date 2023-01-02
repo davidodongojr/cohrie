@@ -60,20 +60,10 @@ with tab2:
         st.header("list")
     
 with tab3:
-    st.image("logframe.png")
-    st.dataframe(df)
-    st.header("AGgrid version")
-
-    gd = GridOptionsBuilder.from_dataframe(df)
-    gd.configure_pagination(enabled=True)
-    gd.configure_default_column(editable=True,groupable=True)
-    gridOptions = gd.build()
-
-    AgGrid(df, gridOptions=gridOptions)
-
+    st.markdown(log_tab, unsafe_allow_html=True)
+    
 with tab4:
    st.header("A dog")
-   st.markdown(mande_system, unsafe_allow_html=True)
 
 with tab5:
     st.markdown(log_tab, unsafe_allow_html=True)

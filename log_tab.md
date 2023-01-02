@@ -24,12 +24,12 @@
             </td>
             <td>
             <ul>
-                <li>-Prevalence of RCF, CCHF and Brucellosis in humans, animals (domestic, wildlife and small animals) and vectors (ticks and mosquitoes)</li>
-                <li>-Dynamics and drivers of spillover events/epidemics documented</li>
-                <li>-Gender and inequalities analysis documented</li>
-                <li>-One Health model developed</li>
-                <li>-A functional One Health disease surveillance reporting system</li>
-                <li>-Timely logbook reports</li>
+                <li>Prevalence of RCF, CCHF and Brucellosis in humans, animals (domestic, wildlife and small animals) and vectors (ticks and mosquitoes)</li>
+                <li>Dynamics and drivers of spillover events/epidemics documented</li>
+                <li>Gender and inequalities analysis documented</li>
+                <li>One Health model developed</li>
+                <li>A functional One Health disease surveillance reporting system</li>
+                <li>Timely logbook reports</li>
             </ul>
             </td>
             <td>
@@ -42,6 +42,15 @@
         <tr>
             <td>Outputs</td>
             <td>
+            <ul>
+                <li>Samples collected from Humans, Animals (domestic &wildlife) and vectors (mosquitoes and ticks)</li>
+                <li>Samples analysed and given test results</li>
+                <li>Ecological models developed</li>
+                <li>One Health Policy Analysis report</li>
+                <li>3,000 KAP surveys done</li>
+            </ul>
+            </td>
+            <td>
             <ol>
                 <li>Samples collected from Humans, Animals (domestic &wildlife) and vectors (mosquitoes and ticks)</li>
                 <li>Samples analysed and given test results</li>
@@ -49,5 +58,6 @@
                 <li>One Health Policy Analysis report</li>
                 <li>3,000 K</li>
             </ol>
+            </td>
         </tr>
         </table>
